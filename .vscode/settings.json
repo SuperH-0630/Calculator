@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "cstdio": "c",
+        "sstream": "c",
+        "cstdlib": "c",
+        "exception.h": "c",
+        "token.h": "c",
+        "setjmp.h": "c",
+        "fstream": "c",
+        "string.h": "c"
+    }
+}
